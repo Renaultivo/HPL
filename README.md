@@ -1,5 +1,5 @@
 # High Performance Language
-> Meant to daily CLI apps.
+> Meant for apps with no user interface.
 
 ## Implementations
 - [ ] Output
@@ -8,6 +8,13 @@
 - [ ] Math
 - [ ] Functions
 
+## Platforms
+- [ ] Linux
+- [ ] Windows
+- [ ] MacOS
+- [ ] AVR
+- [ ] PIC
+- [ ] BIOS 16bits
 
 <br>
 With love, a [🌹]ROSE Project.
